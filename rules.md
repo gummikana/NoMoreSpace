@@ -114,7 +114,7 @@ E.g. John decides to teleport Mary's ship #3 out of the Asteroid to keep it from
 WARP!
 -----
 
-When playing the WARP!, select one of the tiles with an engine (one of your space ships, one of your enemies space ships or a Bulldozer) and it jumps 2 squares ahead in the direction that the space ship is travelling. If the tile 2 squares ahead is occupied you cannot use WARP! on that tile. Using WARP! you can jump over the tile directly ahead of the ship. If there is a black hole at the destination, you may WARP! the ship to the black hole and then that ship is removed from the game.
+When playing the WARP!, select one of the tiles with an engine (one of your space ships, one of your enemies space ships or a Bulldozer) and it jumps 2 squares ahead in the direction that the space ship is traveling. If the tile 2 squares ahead is occupied you cannot use WARP! on that tile. Using WARP! you can jump over the tile directly ahead of the ship. If there is a black hole at the destination, you may WARP! the ship to the black hole and then that ship is removed from the game.
 
 Discard the WARP! tile after use.
 
@@ -123,11 +123,11 @@ Magnet
 
 Magnet's can be used to move groups of tiles on the board. 
 
-When playing a Magnet tile select a free square on the board and place the Magnet tile there in any orientation. The magnet is activated immediattely after it's been placed.
+When playing a Magnet tile select a free square on the board and place the Magnet tile there in any orientation. The magnet is activated immediately after it's been placed.
 
 Activating the Magnet. The Magnet pulls towards itself all the metal tiles (Ships, Deathstar, Bomb, Bulldozer) on the same line that magnet is on. The Magnet's rays also wrap around the edges of the board. The metal tiles slide towards the magnet until they either hit the magnet or another tile (e.g. an Asteroid). If a tile is pulled into the Black hole it is destroyed and removed from the game.
 
-*) Explain Blackhole and multiple ships...
+*) Explain Black hole and multiple ships...
 
 The Magnet tile stays on the board and can be reactivated with an Activation tile.
 
@@ -136,24 +136,24 @@ Bulldozer
 
 Bulldozer's can be used to move groups of tiles on the board and to combine Minerals into bigger piles of Minerals. 
 
-When playing the Bulldozer tile select a free square on the board and place the Bulldozer tile there in any orientation. The Bulldozer is activated immediattely after it's been placed.
+When playing the Bulldozer tile select a free square on the board and place the Bulldozer tile there in any orientation. The Bulldozer is activated immediately after it's been placed.
 
-Activating the Bulldozer: The Bulldozer pushes forward 1 tile and pushes over all the other tiles in the same line that it is. The 2 things Bulldozer's can move are Blackholes and another Bulldozers. 
+Activating the Bulldozer: The Bulldozer pushes forward 1 tile and pushes over all the other tiles in the same line that it is. The 2 things Bulldozer's can move are Black holes and another Bulldozers. 
 
 Activation Tile
 ---------------
 
 When playing the Activation tile, select one another tile on the board that can be activated (Ships, Bulldozer, Deathstar, Bomb, Magnet). Perform that tiles Activation effect.
 
-Ships Activation, if a Ship is activated it moves forward 1 tile (if the destation tile is free). If a Ship moves into the Blackhole it is destroyed and removed from the game. 
+Ships Activation, if a Ship is activated it moves forward 1 tile (if the destination tile is free). If a Ship moves into the Black hole it is destroyed and removed from the game. 
 
-If a Bulldozer or Magnet are activated perform their Activations descripted above.
+If a Bulldozer or Magnet are activated perform their Activations described above.
 
-Activating the Deathstar. The Deathstar fires a laser beam that travelles forward and destroyes what ever tile it hits first (with the exception of the Blackhole). A Deathstar can't destroy itself but it can destroy the other Deathstar.
+Activating the Deathstar. The Deathstar fires a laser beam that travels forward and destroys what ever tile it hits first (with the exception of the Black hole). A Deathstar can't destroy itself but it can destroy the other Deathstar.
 
-*) Figure out what happens when Deathstar fires into the Blackhole. If the Deathstar fires into Blackhole, the laser comes out of the other Blackhole. 
+*) Figure out what happens when Deathstar fires into the Black hole. If the Deathstar fires into Black hole, the laser comes out of the other Black hole. 
 
-Activating the Bomb. The Bomb explodes and destroyes all the 4 adjacent tiles. If a Bomb is ever destroyed (with the exception of being destroyed by the Blackhole) it explodes and destroyes the 4 adjacent tiles. These tiles and their minerals are removed from the game.
+Activating the Bomb. The Bomb explodes and destroys all the 4 adjacent tiles. If a Bomb is ever destroyed (with the exception of being destroyed by the Black hole) it explodes and destroys the 4 adjacent tiles. These tiles and their minerals are removed from the game.
 
 Discard the Activation tile after it's use.
 
