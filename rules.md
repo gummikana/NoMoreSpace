@@ -88,3 +88,26 @@ If an asteroid is mined empty remove that asteroid tile form the board. That squ
 
 3. Ship with the number 3 on it. The ship mines 3 minerals from the left hand tile. If there are any minerals on the card. Remove up to 3 from that tile and place those into your mineral bank.
 
+Action tile effects
+===================
+
+Rotation tile
+-------------
+
+When playing the rotation tile, select one of the space ships (either one of your one, or one of the enemies) or any of the other tiles on the board. You can rotate the selected tile into any orientation you choose, but you must keep the tile at the same square it currently is at.
+
+Teleportation device
+--------------------
+
+When playing teleportation device, select on of the tiles on the board (excluding the black hole) and move it to any other free square on the board, but you cannot rotate the tile while moving it.
+
+E.g. John decides to teleport Mary's ship #3 out of the Asteroid to keep it from mining the minerals from it. 
+
+WARP!
+-----
+
+When playing the WARP!, select one of the tiles with an engine (one of your space ships, one of your enemies space ships or a buldooser) and it jumps 2 squares ahead in the direction that the space ship is travelling. If the tile 2 squares ahead is occupied you cannot use WARP! on that tile. Using WARP! you can jump over the tile directly ahead of the ship. If there is a black hole at the destination, you may teleport the tile to the black hole and then that tile is removed from the game.
+
+Magnet
+------
+
