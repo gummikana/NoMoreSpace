@@ -163,3 +163,10 @@ Double Activation Tile
 Double Activation Tile is just like Activation Tile, except it allows you to perform 2 Activations. Select 2 tiles (or the same twice) and perform their Activation effect.
 
 
+End of the Game
+===============
+
+When the Action deck runs out of cards players will continue to play until everyone has used (or discarded) all the tiles in their hand. On that players turn that the last tile is used (or discarded to Mine) the game ends.
+
+The winner of the game is the player who has the most Mineral cubes.
+
